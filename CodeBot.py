@@ -41,4 +41,4 @@ async def yt(ctx, *, search):
 
     await ctx.send("Resultado de la búsqueda: " + result_URL)
 
-bot.run('MTA0MzU1NDkxNjA3NTA0OTAyMA.G3fQBO.97oqYQqBMPxSjpMZ7oHaVCQXxjJpC-Z_Nq8seM')
+bot.run('TOKEN')
